@@ -22,7 +22,7 @@ package com.example.java_practice.HuaweiOD;
 
 import java.util.Scanner;
 
-public class DynamicPlan_NAT {
+public class DP_NAT {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //采样员数量

@@ -18,7 +18,7 @@ package com.example.java_practice.HuaweiOD;
 
 import java.util.Scanner;
 
-public class DynamicPlan {
+public class DP_DynamicPlan {
 
     public static void main(String[] args) {
 
